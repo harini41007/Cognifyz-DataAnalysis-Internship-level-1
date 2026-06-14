@@ -4,7 +4,7 @@ This repository contains Level 1 tasks completed during my Cognifyz Technologies
  The objective of this project is to analyze restaurant data and extract meaningful insights using python. The analysis focuses on cuisines,cities,price ranges, and online delivery services offered by restaurants.
 
  ## Dataset Overview
- The dtaset contains information about restaurants,including:
+ The dataset contains information about restaurants,including:
  + Restaurant Name
  + City
  + Aggregate Rating
