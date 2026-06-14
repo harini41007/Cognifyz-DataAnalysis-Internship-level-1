@@ -13,13 +13,19 @@ This repository contains Level 1 tasks completed during my Cognifyz Technologies
  + Other restaurant-related details
 
 # Tools & Technologies
-+ Python
-+ Pandas
-+ NumPy
-+ Matplotlib
-+ Seaborn
-+ Google Colab
-+ Github
+ # Programming Language 
+  + Python
+ # Libraries 
+  + Pandas
+  + NumPy
+  + Matplotlib
+  + Seaborn
+ # Data Visualization: 
+ + Bar charts
+ + Pie chart
+ + Boxplots
+# Data Processing
++ Pandas DataFrame
 
 ## Tasks Performed
 
